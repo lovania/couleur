@@ -2,6 +2,9 @@
 
 Dieses Repository ist vorgesehen die digitalisierte Couleur-Zubehör (‘corporate identity‘) der [K.A.V. Lovania zu Löwen](https://de.wikipedia.org/wiki/KAV_Lovania_L%C3%B6wen) zu enthalten.
 
+![Das Lovania Wappen würde um 2006 gewissenhaft von Bbr Dr Wouter Soudan digitalisiert, basierend auf originale Couleurkarten (ca 1900).](Wappen/Wappen-Farben.png)
+
+
 #### TODO
 
 Da in meiner Aktivenzeit (2002–2008), Git noch nicht existierte, wurde meine Designarbeit leider nicht versioniert. Der gesamte Dateiordner beträgt ca. 1.8 Gb. Für den Moment kann ich einfach die folgende Übersicht anbieten, mit zeitgestempelten Dateinamen (Datum der letzten Änderung). — @rhythmus (v. Ludwig Lov!)
