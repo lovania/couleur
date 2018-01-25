@@ -6,8 +6,8 @@ Dieses Repository ist vorgesehen die digitalisierte Couleur-Zubehör (‘corpora
 
 Da in meiner Aktivenzeit (2002–2008), Git noch nicht existierte, wurde meine Designarbeit leider nicht versioniert. Der gesamte Dateiordner beträgt ca. 1.8 Gb. Für den Moment kann ich einfach die folgende Übersicht anbieten, mit zeitgestempelten Dateinamen (Datum der letzten Änderung). — @rhythmus (v. Ludwig Lov!)
 
-- [ ] add Zirkel
-- [ ] add Wappen
+- [x] add Zirkel
+- [ ] clean up legacy files of Wappen
 - [ ] add Couleurkarten
 - [ ] add Semesterprogramme (PDFs, zum Archivieren)
 
