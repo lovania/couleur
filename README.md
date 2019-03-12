@@ -4,6 +4,8 @@ Dieses Repository ist vorgesehen die digitalisierte Couleur-Zubehör (‘corpora
 
 ![Das Lovania Wappen würde um 2006 gewissenhaft von Bbr Dr Wouter Soudan digitalisiert, basierend auf originale Couleurkarten (ca 1900).](Wappen/Wappen-Farben.png)
 
+![Der Zirkel Lovaniae wurde genauestens nagezeichnet und ist im Vektorformat verfügbar.](Zirkel/Zirkel.svg)
+
 
 #### TODO
 
